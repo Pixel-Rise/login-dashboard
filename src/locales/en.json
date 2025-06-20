@@ -1,0 +1,18 @@
+{
+  "login": "Login",
+  "emailAddress": "Email Address",
+  "password": "Password",
+  "enterEmail": "Enter your email",
+  "enterPassword": "Enter your password",
+  "dontHaveAccount": "Don't have an account?",
+  "signUp": "Sign up",
+  "forgotPassword": "Forgot Password?",
+  "dashboard": "Dashboard",
+  "tasks": "Tasks",
+  "settings": "Settings",
+  "welcomeMessage": "Welcome to your dashboard!",
+  "logout": "Log Out",
+  "today": "Today's Date",
+  "weeklyHours": "Weekly Worked Hours",
+  "hours": "hours"
+}

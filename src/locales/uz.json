@@ -1,0 +1,18 @@
+{
+  "login": "Kirish",
+  "emailAddress": "Elektron pochta manzili",
+  "password": "Parol",
+  "enterEmail": "Elektron pochtangizni kiriting",
+  "enterPassword": "Parolingizni kiriting",
+  "dontHaveAccount": "Hisobingiz yo'qmi?",
+  "signUp": "Ro'yxatdan o'ting",
+  "forgotPassword": "Parolni tiklash",
+  "dashboard": "Boshqaruv paneli",
+  "tasks": "Vazifalar",
+  "settings": "Sozlamalar",
+  "welcomeMessage": "Boshqaruv paneliga xush kelibsiz!",
+  "logout": "Chiqish",
+  "today": "Bugungi sana",
+  "weeklyHours": "Bu haftadagi ishlangan soatlar",
+  "hours": "soat"
+}
